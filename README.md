@@ -1,16 +1,28 @@
-# news_app
 
-A new Flutter project.
+# News App
 
-## Getting Started
+News Demo App built by flutter❤️ 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## ⚙ Tools Used
+- Flutter 
+- Dart
+- Postman
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ✨ Features
+✔ Beautiful UI.\
+✔ Light & Dark mode.\
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Screenshots
+## Light Mode
+
+  Home Page                |
+:-------------------------:|
+![photo_2023-01-28_14-10-17](https://user-images.githubusercontent.com/90573805/215266134-d3524e2f-ac81-4b6a-bc0b-f6a45c4551e2.jpg)
+
+## Dark Mode
+
+  Home Page                |
+:-------------------------:|
+![photo_2023-01-28_14-10-10](https://user-images.githubusercontent.com/90573805/215266154-81e87fb4-2802-44e7-946d-720b83301162.jpg)
